@@ -1,6 +1,6 @@
 from mediaComp.models.Sound import Sound
 
-def add(a, b):
+def add_numbers(a, b):
     return a + b
 
 def test_add_two_numbers():
