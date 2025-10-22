@@ -1,7 +1,4 @@
-from mediaComp.models.Picture import Picture
-from mediaComp.models.PixelColor import Color
-
-
+from mediaComp.models.Sound import Sound
 
 def add(a, b):
     return a + b
